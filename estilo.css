@@ -1,7 +1,8 @@
 body {
-    background: url('https://lh3.ggpht.com/_4DhNABer5Is/R6QPMSDZW_I/AAAAAAAAAfw/QSAZnl2bTMw/s800/agua%209752.gif');
+    background: url('https://d2w9rnfcy7mm78.cloudfront.net/16292323/original_83093ea34391d9a149e767b741d746b2.gif?1651445961');
     background-repeat: no-repeat;
     background-size: 1900px;
+    back
 }
  
 header {
@@ -36,7 +37,7 @@ section {
     margin: 0 auto;
     margin-top: 10px;
     border-radius: 30px;
-    border: 3px solid blue;
+    border: 3px solid #ff946c;
     
 }
  
@@ -61,10 +62,10 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: blue;
+    color: #ff946c;
     
 }
 img {
     border-radius: 90px;
-    border: 3px solid blue;
+    border: 3px solid #ff946c;
 }
